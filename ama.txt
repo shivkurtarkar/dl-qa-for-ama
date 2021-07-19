@@ -1,0 +1,228 @@
+﻿
+# Course-Related
+Q In any of the quizzes under this program, if the option chosen is/are partially/fully incorrect, we can resubmit the answer by marking the correct options again. Is the number of submitting attempts being counted for evaluation?
+A The number of attempts is not counted for Phase 2 evaluation. The only thing that matters is that you’ve attempted each quiz question and have completed the quiz.
+Q Are there any hands-on projects during the Phase 1 program?
+A	There are no projects in Phase 1. The projects will take place for Scholars who participate in Phase 2, the actual Nanodegree course! That said, if you decide to join a Study Group you may want to see if others want to create a project that can demonstrate what you have learned!
+Q	Is it compulsory to know how Flask or Django work?
+A	Technical questions can be answered by your peers in the #tech_help channel. In the meantime, you can take a look at the link to prerequisites that can be found on the FAQ page, the Scholarship Landing page, or in our Google slides.
+Q	As I was going through the program I noticed there is no final project in it. So will we be getting a project here as an event or something which we can showcase and share with peers and on our profiles?
+A	You're correct in that there is no project required for Phase 1 of the Foundations Course. Of course you are always welcome to gather some peers here in the workspace and create your own project! Additionally, you may consider forming a Study Team to tackle a project regarding a shared interest!
+Q	Hi I can't find email,what tools are we supposed to download, thank you
+A	Hey!!You can find the list of necessary tools used in this program located in Lesson 1: Introduction to Cloud Native Fundamentals under concept 7: Tools, Environment, and Dependencies
+Q	From past scholarship sessions, approximately what percentage of signed up students were able to complete the Foundations course?
+A	Great Question!! Until now we have had past scholarship communities finishing up anywhere in the range of 25% - 40% Course Completion Rate! We are all pumped up to see where this Community lands! We will also start sharing the course completion numbers with the community starting next week!
+Q 	Will this course material be available after august 2nd in case I have to brush up anything?
+A	Hey Guys! Your access to this course will be removed after August 2nd. But the foundations course will be later added as a free course on Udacity and you can always enrol in that if you would like to review any of the concepts!
+# Deadlines and Schedules
+Q The scholarship period is relatively small considering previous scholarships; should we expect an extension? (so we could plan our stuff correctly)
+A The scholarship period is officially marked as June 7th, 2021 - August 2nd, 2021, and in this case, there will be no exceptions. Please be sure to do everything you can to complete the course by the Aug 2nd deadline!
+Q	How can I manage my time?
+A	Consistent study habits are crucial. Many of our students find the Pomodoro method useful as well!
+Q	Hello, is there an updated "checkpoint" or "milestone" for folks joining the program today?
+A	Since the Phase 1 deadline remains the same for everyone, irrespective of whether they were accepted later or earlier, hence we aren't making a separate timeline!  We know you guys will have to do some hard work to catch up with the timeline  but we know that you guys can do this! Also please utilise Week 4 (kept free in the timeline!) to try reaching the Second Milestone by the end of Week 6.  And o fcourse the timeline is just a recommendation and you can always schedule your course progress based on your availability, just making sure that you finish the course by Aug 2nd!
+Q	I joined just today and after going through messages I feel I am behind in terms of community engagement. I saw that I can go through #announcements to see the past events but I don't see them because of the free tier limits. Is there a way I can access those details without upgrading?
+A	Hey!! Don't worry there will be enough opportunities for you to participate in various community initiatives! Also, you can find all the previous announcements in the Announcements Archive on the google site. 
+Q 	I am late to join the program. What are my chances of getting selected for Phase 2?
+A	The Selection Criteria for Phase 2 is structured such that even if you have entered late into the program you still have loads of opportunities to make it to Phase 2!Important things would be to make sure to complete the Foundations Course by Aug 2nd and to participate in the Community Initiatives coming your way. In case you are able to catch up with the course and would like to organise any initiatives for the community , you can do that too!
+Q	What is the time between end of Phase 1 and Start of Phase 2?
+A	Phase 1 finishes in August 2nd at 11:59pm and the start of Phase 2 is in August 16th
+Q	Can we access Udacity SUSE cloud native foundation course on Udacity after August 2, 2021
+A	The course will be closed and will not be accesible after the deadline August 2nd at 11:59pm but Udacity have communicated that eventually in the future this Phase 1 part will become a free course.
+# Community Events General
+Q When can we expect #50daysofudacity. So as to post our daily study sessions?
+A	You can see all upcoming Community Initiatives and Events here on this page. For this Scholarship, we will hold Daily Scrum sprints, which are similar to #daysofudacity because they involve daily posting, which builds the habit of consistent studying!
+Q	What are the chances of a project showcase in this scholarship challenge?
+A	While a Project Showcase is not planned for this particular program, you are more than welcome to rally your classmates to pull off one! Guidelines for creating your own initiative or event will be shared next week!
+Q	I could not find updated links for the community initiatives.
+Q   Do we have some engagement activity, apart from the course!!!
+A	A new separate page will be created for every Community sponsored initiative but that page won’t go live (and hyperlinked from the main Community page) until it’s officially launched and announced via the #announcements channel!
+Q	As phase #1 winding up in another 37 days, Will #30daysofudacity happen?
+A	Hey we've created Daily Scrum in place of 30days of Udacity since this Scholarship program is shorter in length! Though there is a #st_30daysofudacity that is practicing just that if you are interested in joining
+Q	Can we do a fun activity like Bingo with small milestones?
+A	Hey! Of course you can do that! In one of our past scholarships, we had a group of students who used to conduct BINGO in every Study Jam that the scholarship program had!
+Q	I saw a blog initiative. Is it one of the community organized events that are encouraged to participate in in order to be qualified for phase2?
+A	The Blog initiative is one of the Student-led initiatives! (and so doesn’t count towards community participation)
+# Student-Led Events/Initiatives
+Q Do we need permissions to conduct community events on other platforms? Will they be actively counted towards our community participation segment?
+A	First of all we won't be able to map any initiatives/challenges organised completely on platforms other than Slack. (of course you can have sessions on zoom/google meet as part of your challenge). Therefore they cannot be taken into account.Regarding permission, you won't need our permission for conducting such an activity that said we won't be able to moderate the communications there. Therefore you and the participants will be responsible for the communications and privacy there. Udacity will not be held accountable for that!
+Q	Hello, will there be a channel created for student initiatives outside the slack?
+A	We are already thinking about this but one of the things we would strongly recommend Study Team Organisers to do is to add their events to the Scholarship Calendar
+Q	Hello, if I'd like to create a Student Initiative related to a specific channel, do I have to arrange it with Student Advocates assigned there or can I look for volunteers freely?
+A	You can have the volunteer call based on your preference but do give a heads-up to the Student Advocates of that channel about your upcoming initiative so that they can help you in increasing its visibility and also they can make sure that it doesn't overlap with any other activities in the channel!
+Q	Organising Fun activities comes under Student initiatives ?
+A	Yes, you may organize fun events as you see fit
+Q	Do we need to put you or @Palak.Udacity in CC for every initiative we do or create. It's just I have seen people do it but don't really like it.
+A	We appreciate everyone trying to keep us in the loop, but please no need to CC Palak and I in every initiative or event that you put on. This is why we have created the Events and Initiatives form
+Q	If I send a message to announce that I am conducting an event.what if I want to send it again and again to promote my event and remind people about it. Will that be considered spamming ?!
+A	Place your event on our Program Calendar
+Q	Will there be any study jams this time during some weekend?
+A	Hey!! It's totally up to you and your peers that being said, I do think there are some students planning to run mini versions of the Study Jam or are hosting Hackathons Take a look at our program calendar for future events 
+Q	If we organise a webinar/session can we invite interested participants that aren't a part of the community to make it more inclusive?
+A	Hey!As much as we would have loved to allow this, we are also concerned about the privacy and exclusivity of this space and the program! And therefore for any of the Guest/Internal Webinars, we would say that you can feel free to invite someone from the outside as a speaker but the webinar should be exclusively for this Community, inorder for it to be taken into account as an Student-Led Activity/Initiative!
+Q	Is it necessary to tag community managers every time a study team or individual posts an initiative such as a quiz/webinar?
+A	Hey actually no! We would rather you fill out the events and initiatives form as messages turn over rather quickly in this free workspace 
+Q  I have seen many student team organizers and co-organizers do that and do it multiple times in different channels. Is it necessary to tag CMs all the time?
+A	Hey actually no! We would rather you fill out the events and initiatives form as messages turn over rather quickly in this free workspace 
+Q Regarding student-led initiatives, for Project showcase, is it necessary to have a live demonstration of the project or we can also share code repo and demo video  Also, can we share YouTube videos for student-led initiatives?
+A	Hey!! No need to have a live demo. You are welcome to "showcase" your project as you please. Though please work with one another in the #projects channel to determine how you will schedule and manage the different platforms
+# Study Teams
+Q Will participation in the study teams group be monitored? Is it similar to the rest of the public channels? Or does it have a different weightage?
+A	Participation in study teams will not be monitored separately - rather it is an opportunity for you all to gather in smaller more intimate groups and create your own events/initiatives (should you choose) which can be counted towards participation.
+Q	Will students form groups by themselves?
+A	Through Study Teams, scholars will be able to request for slack channels where they can organise themselves into smaller groups! For eg. If scholars from a particular city want to organise as a group! Based on the requests raised, your CMs will be creating the channels!
+Q	I just saw on the Scholarship Website that Study Teams would be selected today. How does that work? Are we to select team mates ourselves? If we are, then how do we manage that with the amount of classmates available?
+A	The teams will not be selected but anyone can request a study team through the form (will be released later today)! You will get the answer to all of your questions once the details are released!
+Q	What are the Study Teams?
+A	You might want to check https://sites.google.com/udacity.com/suse-cloud-native-foundations/community/study-teams 
+Q	My Team has 20 members. But the problem is they don't respond at all. What should I do?
+A	We recognize that it can be a challenge to get everyone active and engaged - Scholars all have varying levels of availability. I love these ideas listed by your peers above ^^ Something I might add is to ask your members what they are hoping to get out of the group and when they are usually available. Set some group guidelines and best practices
+Q	Is the team only for study groups or are we supposed to do projects together?
+A	The Study Teams are not required to submit any project or event, though if that is the wish of your Study Team then great! The Study Teams are a chance for you all to engage around a shared topic, interest, goal, or location that speaks to you
+Q	What does the study team competition midpoint check-in include? Is the progress being tracked? Or the participation by study team members? Or something else?
+A	The Study Team midpoint check in is for the Study Teams that are participating in the friendly Study Team competition. It is a competition to see which team can get the highest percentage of members to complete lessons 1 - 3 by the midpoint (week 4). Study Team organizers will be responsible for polling their members to report back to CMs. More information here
+Q	Will this effect if one is an organiser of one study team and joins the other team too? Will this count in community work? Additionally, what expert opinion should we keep to a single team for our own benefit as an organiser?
+A	You many join as many teams as you like, but please be considerate of the attention and presence that you can bring to each team as meaningful contribution is important to all teams
+Q	Do we need to post the progress of our teams every week? What if some students don't reply?
+A	Each Wednesday we will ask organizers to post an update in the #study_team_organizers channel It is ok if some members of your team are inactive. This is largely why we are not recognizing Study Teams themselves for participation. Just the events or initiatives that may come out of Study Teams
+Q	Is it possible to remove a study team and members can join another one?
+A	Please reach out to the members of your team to let them know that they should consider joining another team since you no longer have the capacity to lead. Additionally, you could ask to see if anyone else in the team is interested in leading
+Q	Does the creation of a channel/study team group have an ending date? Because it seems some scholars are still requesting for the form link  to create a study group.
+A	At this point, we are not accepting anymore registrants for Study Teams. Though students are always welcome to create their own group DMs should they find a need to
+Q	Will the recently joined scholars be counted for the Study Team mid-point check-in challenge? Many of them are still on L1!
+A	We do not expect newly admitted scholars to have reached Lesson 3 at this point. If they have, great! You can go ahead and count them towards your completion numbers. If they have not, then no need to include their progress at this point. We have no doubt that our newly joined scholars will catch up in no time
+Q	Could we have a better automated mechanism that checks course completion by the study team rather than using an easy poll for collecting this information?
+A	Unfortunately we don't have access to such tools, but if you come up with a way to better poll members in the community you are more than welcome to utilize it! Though, please note this is why the competition is merely a friendly one
+Q	Is there going to be any event for mentioning the best study groups?
+A	I've seen so many amazing Study Teams !! If you are participating in the Study Team competition then there will be an announcement regarding the winner(s) at the mid and end point. Though please note this is just for fun and will not count towards participation
+Q	If a study group arranges a session and invites the community managers, is there any chance they will join?
+A	We will do our best! As you can imagine with 400+ groups it can be really difficult to attend all events . But we love that you include us 
+Q	If I’m part of two channels? Can I be part of the study team competition for both ? 
+A	Yes!
+# Student Advocate
+Q Where may I read more about the Student Advocate role? What are the responsibilities?
+A	We will be launching Student Advocates Friday, June 11th. So please check out the #announcements for more details. You can also find more information about what the responsibilities are by taking a look at our Student Advocate Slide In our Orientation Presentation Slides.
+Q I want to be an advocate but I am unsure I have the knowledge to be helpful beyond the readings I have amassed. What does it take to be an advocate?
+A	You do not need to have prior experience to be an advocate! More details will be released soon, but for a quick overview: Student Advocates are voluntary representatives of the student body who have big hearts, great ideas, and have a strong willingness to get involved. Student Advocates are made up of Channel Advocates and Tech Advocates and serve their classmates by going above and beyond in and out of the Slack community - providing outstanding technical and moral support both informally and during organized events! We'd love to see you both in the applications!
+Q	For the new students who joined, do they get the opportunity to be a SA too? Will there be a new batch of Student Advocates after the previous batch?
+A	Hey at this point we don't anticipate opening up applications for any more student advocates, though there are plenty of other opportunities to still get involved as the program progresses
+Q	Is applying for student advocate counted as participation or only those selected?
+A	We are only taking into consideration those who were selected as we will be monitoring their actual participation their roles 
+Q	If anyone did not got chance to participate as Student Advocate, could we know what might be the areas of improvement, just to consider it as part of our learning
+A	You should know that each and every application we received was very worthy of the role just that we had limited roles and therefore based on the form responses we had to pick the applications where we could see the responses (ideas, experience etc.) very much inclined with what we see would lead to success in the role
+# Daily Scrum
+Q I'm currently enrolled in another Nanodegree. Can I share what I've learned in the Daily Scrum activity even if it's not related to cloud computing?
+A	Yes, you are definitely welcome to share other outside learnings you have achieved! We want this scrum to help your course completion for this challenge phase, but if your outside learnings are relevant, please do of course share!
+Q	What is daily scrum? How do we use it?
+A	Make studying a habit with our accountability initiative, Daily Scrum! Pledge to spend 5 minutes every day for 2 straight weeks simply by sharing a daily update to the following 3 questions to stay on top of your course materials: 1. What did I work on yesterday? 2. What will I work on today? 3. What issues are blocking my progress? 
+Q	Do I need to post in #daily_scrum at the same time everyday. Example, if I shared my first post at 9.30Pm IST then all the remaining days, should I post my activities in the same time i.e 9.30pm IST
+A	Though it is not required that you post at the same time each day it is helpful to be consistent as it will help you to remember to post and get you in the habit of working on the course a little bit each day
+Q	What if I miss more than two days of daily scrum?
+A	Hey! Based on how a Scrum is structured, if it is still early in the Sprint we would like you to start the Sprint again!
+Q	When is the second scrum signup form being posted? So will keep an eye for that one as missed last time
+A	Hey!! That will be out on Monday, July 5th!
+Q	Is there any technical way that will be used to know the completion of the daily scrum sprint#1? or will it be based on the form submission?
+A	The form submission is the only way to let us know that you have completed the Sprint!The whole challenge is based on honour system as scholars who really indulge themselves into the habit of daily check-ins are the only ones who will be able to realise the potential of forming such an habit and to harvest the fruits of it in terms of continuous learning!
+Q	Will scrum 1 be weighted the same as scrum 2 or there will be advantage to scholars who take part in both scrum challenges?
+A	Each Scrum will be taken into consideration individually meaning, neither will be weighted more than the other
+Q	After completed Sprint #1, is posting on the 15th day and after required, optional or banned (for the lack of a better word)?
+A	It is not required that you continue to post once the sprint ends, but some students find it helpful to keep up the routine
+Q	Is Sprint #2 a rerun of Sprint #1 with the  same target or a next phase of Sprint #1 with a new target? 
+A	Sprint #2 is a continuation of Sprint #1 so you can pick up where you left off, with the aim of completing the next milestone! 
+Q	Good morning, I regularly posting sprint 2 Work in #daily_scrum At 11:30 pm night but yesterday somehow I became late and posted at 12:01 am night. Does it counts in yesterday sprint 2 or I missed yesterday sprint 2
+A	No worries! You can count that as yesterday's check in
+Q	If someone finishes the 14 days of a sprint should  he/she still send in daily-sprint channel until the second sprint starts
+A 	Is totally up to you, some people like to keep posting in the channel to keep themselves active in the course, but is not mandatory to do it, you can wait until the next Sprint challenge starts.
+# Student Stories Challenge
+Q	 Is there any chance for more than 15 stories to get selected for the voting?
+A	Of course! It all depends on how challenging you guys make it for us to select the finalists by submitting amazing Student Stories 
+Q	Does applying for the story challenge count as participation? Or is it only counted if selected?
+A	We can't get into the specifics of how participation is rewarded but just know that the Student Stories initiative is an amazing way to get to know your fellow scholars! 
+Q	In the announcement there are some student story spotlight, does that mean the story has a greater chance to be a finalist?
+A	For the Student Story Spotlight we generally skim through the latest Student Story Submissions and pick a story we find worth sharing with the community!But we will be evaluating all the stories again for the finalist consideration and there will be different criteria in place on our end for a story to be considered for the finalists, so every student story submission has a good chance of making it to the finalists regardless of whether or not they have been spotlighted!	
+# Study Buddy
+Q Is taking part in the study buddy compulsory? Does it count towards community participation?
+A	Participating in the Study Buddy Program is not compulsory. Just another way for scholars to help one another out in a smaller setting! This initiative was designed with the main objective to help one another cross the finish line (which is our first criteria to make it into Phase 2) and not necessarily to receive recognition for participation.
+# Study Jam
+Q I couldn't see study jam as part of the community events that will count towards community participation. Is it that study jam won't hold or won't count?
+A	If you create your own or help out with a group's event then you can use that to count towards participation by filling out the Student Led event/initiative form at the conclusion of the event 
+# Phase 2 General
+Q How much time will we have to complete the Nanodegree if selected for Phase 2?
+A	Scholarship Timeline Scholarship Challenge Foundations Course: June 7th, 2021 - August 2nd, 2021 Nanodegree Scholarship Winners Announced: August 12th, 2021 Nanodegree Scholarship Nanodegree Program: August 16th, 2021 - December 6th, 2021 
+Q	After completion of phase 1, will I receive a certificate?
+A	There is no certificate associated with completing the Foundations Course but towards the end of Phase 1 we will provide you with the language you can use to highlight your Phase 1 experience on professional forums like LinkedIn .Additionally for those scholars who move ahead to Phase 2, if they graduate from the Nanodegree Program then they will indeed receive a graduation certificate!
+# Selection Criteria
+Q What is the criteria to get the nano degree?
+A Hey! Here is the selection criteria for Phase 2: 1. Successful Completion of the Foundations Course 2. Community Participation Participation in Community Team sponsored initiatives and events Running student initiatives: creating a new program, challenge, or event 3. All the Selection Criteria used in Phase 1 You can get to know about this in more detail by going over the Program Orientation Recording! Check the #announcements! 
+Q	Regarding selection criteria: Please help us get clarity on which aspects are important and how much weightage each would have.
+A	The 3 selection criteria for Phase 2 are: 1. 100% course completion  2. Community Participation 3. Selection criteria for Phase 1 More specifically, Community Participation refers primarily to participating in activities & initiatives organized by your Scholarships Community Manager Team as well as if you the Scholar create your own new initiative, challenge, or event for the community. For each initiative, we will release a Completion Form where you can share that you have indeed participated.  You can see details on the Community Page of the Scholarship Google Site!
+Q	Will finishing the Phase 1 foundation course early be taken into account for selecting scholars for Phase 2?
+A	Finishing Phase 1 early will not be taken into consideration when selecting scholars for Phase 2. You just have to finish the Foundations course by the August 2nd deadline!
+Q	How can the Udacity team monitor so many channels, for participation of 15k users, where the messages get deleted? How does Udacity maintain the selection is unbiased?
+A	Just a reminder that while this Slack workspace is for you to make connections and help each other learn the material, what counts towards meeting the community participation criteria is actually your participation in the community sponsored events and initiatives outlined on the Google site
+Q	Will there be a quiz at the end of this course to determine who goes to the next level?
+A	There is no quiz at the end of the course to determine who moves on to Phase 2. Just be sure to reach 100% course completion by the August 2nd deadline
+Q	What's the best approach to get selected for Phase 2?
+A	Help, react, study, and participate in general every day. Finish your studies, help others and enjoy the community. Participating in community sponsored events & initiatives
+Q	For those joining from the waitlist, what are their chances of actually advancing to phase 2, since they are starting late, are they going to be considered?
+A	Since they are getting into Phase 1 a little late, they will definitely have less time to go through and complete the Foundations Course but other than that in terms of Community Participation, they will still have many opportunities to be part of the Community Initiatives or conduct Student-led initiatives!
+Q	Do you have any tips on how to get selected into Phase 2?
+A	Hey! In addition to going over the transcript, you can find the best tips to utilise the max of this experience and make your way to Phase 2 in the Orientation Session section from the Scholarship Alumni here
+Q	May I know how you do the selection of phase 2? as here we are a big group of 12k, is there any AI/automation filtration program involvement?
+A	While we can't get into the specifics of Phase 2 selections, I can tell you that we diligently follow the following three criteria: * Successful completion of course material and attempts at all quizzes. To be clear, there is no reward for finishing first or early. We will evaluate everyone’s progress after the course ends on August 2nd. This means making as much use of the community and network as possible in order to iterate on your work. * Community Participation * Participation in Community Team sponsored initiatives and events * Running student initiatives: creating a new program, challenge, or event * Review of all the selection criteria used in Phase 1. 
+#	Community Participation 
+Q Will DMs be also counted towards community participation or should we focus more on interacting in the public spaces in order to be seen as a valuable active participant?
+A	Community participation is participation in our community events and initiatives outlined on the Google site!
+Q	On what basis will Slack community participation be judged?
+A	Your participation in Slack is not necessarily judged. Rather, to evaluate community participation we look at your participation in Community Manager organized initiatives. Additionally, scholars have the option to run their own student initiatives to count towards participation like creating a new program, challenge, or event. For more information please see our Google site
+Q	How is the activity in the Slack community analysed? Is it simply based on the number of interactions or is it more of what is said? Also will there be other rounds to weigh in a scholar’s eligibility?
+A	As was mentioned in the Orientation Sessions, criteria for community participation will be based on following two things: Participation in Community Team sponsored initiatives and events Running student initiatives: creating a new program, challenge, or event And therefore the Slack Interactions in general will not be evaluated towards community participation for Phase 2.
+Q	If I am not that much experienced to guide anyone in this field, how can I be active in the community , if I can't take initiative because of this drawback? Does it lower my chances of getting selected for Phase 2?
+A	First, please don’t stress! What matters is that you complete 100% of your Challenge coursework and participate in the community initiatives that you’re able to that are starred on our Google site. We try to make these initiatives to accommodate different schedules and bandwidth - just do your best! Learning is the biggest reward of this journey!
+Q	Do I need to be active in the Slack community in order to get to phase 2? Because I am in a period of exams and can only dedicate time for the courses in the Udacity classroom.
+A	We are not necessarily monitoring Slack participation. Rather, to evaluate community participation we look at your participation in specific Community Manager organized or sponsored initiatives. Additionally, scholars have the option to run their own student initiatives to count towards participation like creating a new program, challenge, or event. For more information please see our Google site.
+Q	If we wanted to help our peers using video, would we be able to share our YouTube channels with support videos?
+A	Starting next week, Palak and Isabella will share guidelines on student-led events (such as helping by sharing video). Keep your eye on the #announcement channel for this!
+Q	Hello I have joined the course today, so I am around 3 weeks behind the other participants. How can I catch up in my Slack contribution for that?
+A	Hey!! Welcome to our community and congratulations! We are so happy to have you here. This time around, we are not necessarily monitoring Slack participation. Instead, we ask that scholars participate in community led initiatives or events. Please note that although you are entering a little later than some, there are still plenty of opportunities to participate coming up. Please look to the #announcements channel in the coming weeks for more information on ways to get involved
+Q	What should I do after finishing the course content?
+A	Hey!! here are some recommendations if you have finished the course already. First and foremost once you have completed the course, you should do a manual check of the course to make sure you haven’t missed attempting any quiz question, exercises, going over any lectures etc.! This will ensure that your course completion is reflected on our end! This could also serve as a revision!  You can use the time left in Phase 1 to keep on building your knowledge and skills of the concepts learnt in the course by may be taking up a project individually or together with a group of peers (see #projects for ideas!)  Or you can also help your peers by offering technical sessions, or by responding to your peers’ questions! And of course you can continue to learn by maybe pursuing any certifications or taking up more courses (there are loads of free courses at Udacity too!)  You should keep up the graph of your learning every day during Phase 1!!
+Q 	Can we stream to youtube a podcast to be considered a Student-led Event/Initiative?
+A	Hey Yes! In fact we've had students put on a podcast in the past! Just be sure to fill out the Events and Initiatives form once your series 
+Q	Participation in #ama_sessions is a part for selection in 2nd phase.
+A	Hey AMA sessions are optional! We lead these sessions for all the scholars to make sure that you all can get your most pressing administrative and non technical questions answered in a timely manner. We are not taking your participation in this event into consideration.
+Q	It's hard to maintain activity and visibility being full time working + late entry in the course. Suggestions?
+A	Specifically for this reason, the Selection Criteria for Phase 2 is structured such that it is not your Slack Presence but Participation in Community Initiatives and Organisation of any student-led initiatives that is taken into account for Community Participation.So we will recommend that you keep a regular check on #announcements and the google site to remain updated about all things going on! And try to utilise the Community Initiatives and also this community as resources to maximise your learnings from this experience using the time that you have in hands
+Q	I have only succeeded in completing the course 100%. I have tried to help colleagues with issues, however I am not in any group. What do I need to do to increase my chances of getting into Phase 2 of scholarship ?
+A	Let’s make sure you are participating in the Daily Scrum channel and the Story time challenge, also remember you can create a new Student Initiative to help your peers and participate in the community
+Q	There is so much going on and time is limited so how much out of band work is required?
+A	We recognize that many of you have outside responsibilities, but that being said we do ask for you to check your personal time to complete this course and try to do as much as you can. That’s why we offer a lot of community events and sessions that are asynchronous and you are able to contribute in your own time, so I would recommend having a plan to complete the course first and then see if you have any extra time to have some community contribution.
+Q	Where can I find the Community participation form?
+A	Hey remember that you can find all the links and forms available here: https://sites.google.com/udacity.com/suse-cloud-native-foundations/resources/forms-links and more specifically, here is the Event/Initiative Completion Form here: https://sites.google.com/udacity.com/suse-cloud-native-foundations/resources/forms-links?authuser=0#h.2hjd6xozrt4w 
+#	Miscellaneous
+Q When will we have the new channels?
+A	While there is no set timeline, I can assure you that your Community Managers are regularly reviewing the Slack channel requests that come in and will be creating new channels as they see fit!
+Q	Can we have some activity to get to know people from other countries better like a cultural exchange program?
+A	If you have  an idea of how to go about this, I encourage you to find classmates and execute it! Next week, details will be shared on how to create/execute your own events or initiatives that will help in building a stronger community!
+Q	How much would this nanodegree cover if anyone wants to be a DevOps Engineer?
+A	You can see the syllabus for the Cloud Native Application Architecture here to see if the knowledge learned will help you in a DevOps Engineer position!
+Q	Is there the possibility of taking the nanodegree at a reduced price if we're not selected for phase 2?
+A	Udacity frequently runs promos and you can use any of them to enroll in the Nanodegree at a reduced price.
+Q	Do students get notified whether their request for a slack channel has been approved or not?
+A	You can go ahead and check the Study Teams Directory to see if your channel has a "join" button next to it
+Q	How are selections for programs like this one made? There must have been thousands of applications, if not more. Does the team go through each application?
+A	I think you are referring to the selections done for Phase 1.The Phase 1 selections are solely based on the form responses of the scholars and I cannot let out the process here but yes you can stay assured that all the applicants are duly considered and their responses are evaluated.
+Q	Are new scholarships coming soon?
+A	Hey!! as your peers mentioned, please keep your eye out on the scholarships page for more information regarding upcoming programs
+Q	Please give some tips on time management, Stress management, Self motivation, and Any tips for studies. It would be very helpful for my further studies or work.
+A	Hey!! Please make sure to check out the #motivation and #wellness (as well as #resources) channels for some tips and tricks regarding the topics you listed. Your Student Advocate team has some awesome content up their sleeves that they will continue to share with you throughout the rest of our time together
+Q	Will this slack workspace remain after phase 1?
+A	This Slack space will not be in use after Phase 1 ends.
+Q	Can we get the highlight of the mid term feedback survey? Such as how many students say they are very satisfied?
+A	While we might not be able to disclose every metric, we certainly will take into consideration what the community has said once we see the results and let you know the changes we are implementing due to the survey results
+Q	What metrics do you use to evaluate the overall success of a Scholarship Program?
+A	'% of students from the whole cohort that completes the course' is one of the most important metrics for us to evaluate the success of a scholarship program as it is very keenly looked at by our partners when they are evaluating the value in recreating such scholarship programs.Apart from that some of the other important metrics would be how engaged the community is, how much supported each scholar felt in their Phase 1 journey, how every scholar liked the overall experience etc.! We collect feedback on some of these using Feedback Surveys (mid-program and end of the program)!
+Q	Will there be future SUSE scholarships?
+A	We currently don’t have confirmation of future SUSE scholarships.
+Q	What are some suggestions to keep going if you don't get into phase 2?  Does Udacity offer some direction on this?
+A	Udacity offers a variety of free courses on a range of topics :) so please feel free to enroll in them. Apart from that, you can also enroll in future Nanodegree Programs apart from the scholarship.
