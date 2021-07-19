@@ -3,7 +3,7 @@ Project : Semantic Search for ama qa
 
 Initial Idea: I wanted to scrape slack #ama_session channel and use question answering model from listed on Stanford Question Ansering Dataset (SQuAD) Challange page [https://rajpurkar.github.io/SQuAD-explorer/].
 
-initial components were
+components
 1. scrapper
 	to scrape slack channel
 2. filter
